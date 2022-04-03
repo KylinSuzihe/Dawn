@@ -6,4 +6,4 @@
 
 ## 安装
 
-需安装[https://easyx.cn/]easyx图形库
+需安装[easyx](https://easyx.cn)图形库
